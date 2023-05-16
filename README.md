@@ -13,6 +13,10 @@ Overall, this project showcased my proficiency in utilizing Python, OpenCV, Haar
 
 ![face_recognition](https://github.com/muhammad98754/face-recognition-app/assets/130402856/35ad3bd5-b66f-4fd3-849d-812d1aa99cf7)
 
+                             Eye detection
+
+![window1](https://github.com/muhammad98754/face-recognition-app/assets/130402856/8b18c0fd-3abe-458b-abba-ee0657827458)
+
 
 
 
