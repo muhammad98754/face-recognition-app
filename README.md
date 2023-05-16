@@ -9,13 +9,19 @@ By leveraging the power of neural networks and facial feature analysis, the face
 The development process included careful experimentation, fine-tuning of parameters, and continuous testing to optimize the performance and accuracy of the face recognition algorithm. The final implementation proved to be highly efficient and capable of handling real-time video streams or processing large sets of images with impressive speed.
 
 Overall, this project showcased my proficiency in utilizing Python, OpenCV, Haar cascades, and machine learning algorithms to create a face recognition application that surpasses conventional methods in terms of accuracy and reliability.
-
+                             
+                             Face recognition
 
 ![face_recognition](https://github.com/muhammad98754/face-recognition-app/assets/130402856/35ad3bd5-b66f-4fd3-849d-812d1aa99cf7)
 
                              Eye detection
 
 ![window1](https://github.com/muhammad98754/face-recognition-app/assets/130402856/8b18c0fd-3abe-458b-abba-ee0657827458)
+
+
+                            Face detection
+
+![window](https://github.com/muhammad98754/face-recognition-app/assets/130402856/2fe8edac-dc99-413c-b9ba-3ac253f643cd)
 
 
 
