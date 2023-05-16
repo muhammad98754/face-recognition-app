@@ -11,6 +11,9 @@ The development process included careful experimentation, fine-tuning of paramet
 Overall, this project showcased my proficiency in utilizing Python, OpenCV, Haar cascades, and machine learning algorithms to create a face recognition application that surpasses conventional methods in terms of accuracy and reliability.
 
 
+![face_recognition](https://github.com/muhammad98754/face-recognition-app/assets/130402856/35ad3bd5-b66f-4fd3-849d-812d1aa99cf7)
+
+
 
 
 
